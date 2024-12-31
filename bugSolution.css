@@ -1,0 +1,1 @@
+The solution involves refactoring the selectors to use the appropriate level of specificity. Instead of using overly specific selectors, use more general selectors whenever possible.  Avoid unnecessarily high specificity that may override other styles unintentionally.  If more specificity is required, use the cascade and the order of your CSS rules effectively.
